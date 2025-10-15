@@ -13,8 +13,8 @@
 
 ## 📫 Cómo contactarme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KidiePresa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kidie-presa-b8891a332)  
-[![Email](https://img.shields.io/badge/Email-kidiepresa%40gmail.com-red?style=flat-square&logo=gmail)](mailto:kidiepresa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidie-presa-b8891a332)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kidiepresa@gmail.com)
 
 ---
 
