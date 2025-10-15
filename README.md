@@ -13,7 +13,7 @@
 
 ## 📫 Cómo contactarme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KidiePresa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kidie-presa-b8891a332)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KidiePresa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kidie-presa-b8891a332)  
 [![Email](https://img.shields.io/badge/Email-kidiepresa%40gmail.com-red?style=flat-square&logo=gmail)](mailto:kidiepresa@gmail.com)
 
 ---
