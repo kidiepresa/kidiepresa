@@ -7,9 +7,14 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** JavaScript, Python, C++  
+- **Lenguajes:** Java, JavaScript, Python, C++  
 
 ---
+
+## 🎓 Formaciones
+
+- **Ceibal - Jóvenes a Programar** – Curso de desarrollo web
+- **Oracle - Programa ONE** – Especialización en Backend
 
 ## 📫 Cómo contactarme
 
