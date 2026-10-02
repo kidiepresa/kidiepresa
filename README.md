@@ -14,7 +14,6 @@
 ## 🎓 Formaciones
 
 - **Ceibal - Jóvenes a Programar** – Curso de desarrollo web
-- **Oracle - Programa ONE** – Especialización en Backend
 
 ---
 
